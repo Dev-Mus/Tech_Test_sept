@@ -1,4 +1,4 @@
-const getOffers = require('../techTestYassir');
+const getOffers = require('../index');
 
 const expect = require('expect.js');
 
